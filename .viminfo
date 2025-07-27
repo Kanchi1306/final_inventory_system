@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1753092115,,"wq"
+|2,0,1753092961,,"wq"
 :qw
 |2,0,1753092032,,"qw"
 
@@ -32,22 +32,46 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	e
+|3,1,36,0,1,0,1753092945,"e"
 
 # File marks:
-'0  7  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
-|4,48,7,0,1753092115,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
+'0  1  26  ~/.git/MERGE_MSG
+|4,48,1,26,1753092961,"~/.git/MERGE_MSG"
+'1  7  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
+|4,49,7,0,1753092115,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  26  ~/.git/MERGE_MSG
+|4,39,1,26,1753092961,"~/.git/MERGE_MSG"
+-'  7  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
+|4,39,7,0,1753092115,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 -'  7  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
 |4,39,7,0,1753092115,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 -'  6  12  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
 |4,39,6,12,1753091957,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
+-'  6  12  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
+|4,39,6,12,1753091957,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
+-'  3  53  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
+|4,39,3,53,1753091951,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 -'  3  53  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
 |4,39,3,53,1753091951,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 -'  1  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
 |4,39,1,0,1753091921,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
+-'  1  0  /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
+|4,39,1,0,1753091921,"/c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1753092955	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+	e	1	0
+	o	1	4
 
 > /c/Users/Rahul/Desktop/inventory_system/.git/MERGE_MSG
 	*	1753092110	0

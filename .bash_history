@@ -270,3 +270,25 @@ git branch -M main
 git add .
 git commit -m "initial vite project"
 git push branch -M master
+git remote remove origin
+git remote add origin https://github.com/Kanchi1306/inventory_system01.git
+git branch -M master
+git add .
+git commit -m Initial commit for vite push"
+git commit -m "initial commit for vite project"
+git commit -m "initial commit for vite project"
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+git push -u origin master --force
+cd ~
+cd /c/Users/Rahul/Desktop/inventory_system
+rm -rf cdssetup
+git add -u
+git commit -m "made changes"
+git push origin master
+git branch
+git pusb origin main
+git push origin main
+cd ~
+cd /c/Users/Rahul/Desktop/final_inventory_system
